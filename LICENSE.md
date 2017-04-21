@@ -1,5 +1,5 @@
 # LICENSE
-> Copyright 2016 lin-e
+> Copyright 2017 lin-e
 
 > me@eugenel.in
 
