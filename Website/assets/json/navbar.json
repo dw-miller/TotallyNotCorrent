@@ -1,0 +1,33 @@
+{
+  "logo":"<a class=\"brand-logo left\">&nbsp;TorrentDrive</a>",
+  "navbar":[
+    {
+      "name":"Home",
+      "cwd":"/var/www/personal/.subdomain/beta",
+      "fa":"home",
+      "link":"http://beta.eugenel.in/",
+      "hide":false
+    },
+    {
+      "name":"Manage Files",
+      "cwd":"/var/www/personal/.subdomain/beta/manage",
+      "fa":"cloud-upload",
+      "link":"http://beta.eugenel.in/manage/",
+      "hide":false
+    },
+    {
+      "name":"Browse",
+      "cwd":"/var/www/personal/.subdomain/beta/browse",
+      "fa":"search",
+      "link":"http://beta.eugenel.in/browse/",
+      "hide":false
+    },
+    {
+      "name":"Profile",
+      "cwd":"/var/www/personal/.subdomain/beta/profile",
+      "fa":"user",
+      "link":"http://beta.eugenel.in/profile/",
+      "hide":false
+    }
+  ]
+}
